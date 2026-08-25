@@ -11,7 +11,6 @@
 🎓 Desenvolvimento de Sistemas — ETEC  
 💻 Desenvolvendo projetos web e mobile  
 🗄️ Estudando bancos de dados  
-🎨 Interessada em UI/UX e desenvolvimento de interfaces  
 🌱 Sempre aprendendo algo novo
 
 ---
@@ -26,35 +25,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
----
-
-## `featured projects`
-
-### 🥗 Merenda+
-Aplicativo desenvolvido para melhorar a experiência dos alunos com a merenda escolar.
-
-### 🐾 PetShop Fofo
-Sistema web desenvolvido durante os estudos de desenvolvimento de sistemas.
-
-### 🔬 Caça-Bactérias
-Jogo educativo desenvolvido no Scratch.
-
-### 🍿 PopBeats
-Projeto envolvendo tecnologia, criatividade e desenvolvimento.
-
----
-
-## `school projects`
-
-> Um espaço para registrar minha evolução durante o curso de Desenvolvimento de Sistemas.
-
-📚 PHP  
-🗄️ SQL / Banco de Dados  
-🌐 HTML & CSS  
-⚡ JavaScript  
-📱 React Native  
-🎨 UI/UX
 
 ---
 
